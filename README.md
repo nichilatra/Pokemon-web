@@ -1,3 +1,3 @@
 # Pokemon-web
-Pagina web de pokemon, donde ingresamos el nombre y nos imprime la imagen del pokemon. 
-Este es un pequeño ejemplo de como traer datos de la url, para poder imprimir una imagen traida tambien de la url.
+Pagina web de pokemon, donde ingresamos el nombre y nos muestra la imagen del pokemon. 
+Este es un pequeño ejemplo de como consumir datos de una api , para poder mostrar una imagen corespondiente al pokemon, esto como practica personal del curso de nodejs.
